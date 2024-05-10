@@ -1,0 +1,7 @@
+/Users/tassianeanzolin/lar-api/lar-api/lar-api/obj/Debug/net7.0/lar-api.csproj.AssemblyReference.cache
+/Users/tassianeanzolin/lar-api/lar-api/lar-api/obj/Debug/net7.0/lar-api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tassianeanzolin/lar-api/lar-api/lar-api/obj/Debug/net7.0/lar-api.AssemblyInfoInputs.cache
+/Users/tassianeanzolin/lar-api/lar-api/lar-api/obj/Debug/net7.0/lar-api.AssemblyInfo.cs
+/Users/tassianeanzolin/lar-api/lar-api/lar-api/obj/Debug/net7.0/lar-api.csproj.CoreCompileInputs.cache
+/Users/tassianeanzolin/lar-api/lar-api/lar-api/obj/Debug/net7.0/lar-api.MvcApplicationPartsAssemblyInfo.cs
+/Users/tassianeanzolin/lar-api/lar-api/lar-api/obj/Debug/net7.0/lar-api.MvcApplicationPartsAssemblyInfo.cache
